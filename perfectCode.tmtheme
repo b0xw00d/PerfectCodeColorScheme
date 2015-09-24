@@ -12,7 +12,7 @@
 				<key>background</key>
 				<string>#0F0F0F</string>
 				<key>caret</key>
-				<string>#F5FCFF</string>
+				<string>#535100</string>
 				<key>foreground</key>
 				<string>#bebebe</string>
 				<key>invisibles</key>
@@ -20,7 +20,7 @@
 				<key>lineHighlight</key>
 				<string>#302A01be</string>
 				<key>selection</key>
-				<string>#bebebe35</string>
+				<string>#535100</string>
 				<key>findHighlight</key>
 				<string>#ffe792</string>
 				<key>inactiveSelection</key>
